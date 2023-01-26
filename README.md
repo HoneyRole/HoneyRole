@@ -1,14 +1,10 @@
 # Thanks for visiting my Git!
-<a target="blank" href="https://profile-counter.glitch.me/dmb-dev87/count.svg"><p align="center">❤ Visitor Counts ❤<br><br> <img src="https://profile-counter.glitch.me/dmb-dev87/count.svg" /></a>
-
-## Contact Me!
-
-Please contact me with dmbdev800@gmail.com.
+<a target="blank" href="https://profile-counter.glitch.me/HoneyRole/count.svg"><p align="center">❤ Visitor Counts ❤<br><br> <img src="https://profile-counter.glitch.me/HoneyRole/count.svg" /></a>
 
 ## Welcome
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=dmb-dev87&hide=prs&text_color=586069&layout=compact&hide_border=true&show_icons=true&theme=github_dark)
-![My github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmb-dev87&text_color=586069&layout=compact&hide_border=true&title_color=0366d6&count_private=true&include_all_commits=true&theme=github_dark&show_icons=true)
+![My github stats](https://github-readme-stats.vercel.app/api?username=HoneyRole&hide=prs&text_color=586069&layout=compact&hide_border=true&show_icons=true&theme=github_dark)
+![My github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HoneyRole87&text_color=586069&layout=compact&hide_border=true&title_color=0366d6&count_private=true&include_all_commits=true&theme=github_dark&show_icons=true)
 
 ## Top Skills
 <table>
