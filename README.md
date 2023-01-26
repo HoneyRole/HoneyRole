@@ -4,7 +4,7 @@
 ## Welcome
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=HoneyRole&hide=prs&text_color=586069&layout=compact&hide_border=true&show_icons=true&theme=github_dark)
-![My github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HoneyRole87&text_color=586069&layout=compact&hide_border=true&title_color=0366d6&count_private=true&include_all_commits=true&theme=github_dark&show_icons=true)
+![My github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HoneyRole&text_color=586069&layout=compact&hide_border=true&title_color=0366d6&count_private=true&include_all_commits=true&theme=github_dark&show_icons=true)
 
 ## Top Skills
 <table>
