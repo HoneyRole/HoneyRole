@@ -1,7 +1,4 @@
 # Thanks for visiting my Git!
-<a target="blank" href="https://profile-counter.glitch.me/HoneyRole/count.svg"><p align="center">❤ Visitor Counts ❤<br><br> <img src="https://profile-counter.glitch.me/HoneyRole/count.svg" /></a>
-
-## Welcome
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=HoneyRole&hide=prs&text_color=586069&layout=compact&hide_border=true&show_icons=true&theme=github_dark)
 ![My github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HoneyRole&text_color=586069&layout=compact&hide_border=true&title_color=0366d6&count_private=true&include_all_commits=true&theme=github_dark&show_icons=true)
